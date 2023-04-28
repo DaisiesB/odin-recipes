@@ -1,0 +1,29 @@
+h1 {
+background-color: aqua; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: azure;
+font-size: 50px;
+font-weight: 900;
+text-align: center}
+
+#lasagne {
+    background-color: red
+    }
+
+#squash {
+    background-color: orange
+}
+
+#fairy {
+    background-color: purple;
+}
+
+button {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+* {
+    background-color: teal
+    }
+
